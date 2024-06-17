@@ -46,7 +46,7 @@
  * @text ウィンドウY位置
  * @desc ウィンドウの画面上端からの距離
  * @type number
- * @default 00
+ * @default 0
  * 
  * @param WindowHeight
  * @text ウィンドウ高さ
