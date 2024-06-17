@@ -170,7 +170,7 @@ const EXCSkillNameWindow = document.currentScript.src.match(/^.*\/(.+)\.js$/)[1]
 				_skillNameWindow.resetFontSettings();
 			}
 
-			// 表示名勝指定がある場合切り替え
+			// 表示名称指定がある場合切り替え
 			let itemName = item.name;
 			if(item.meta[DISP_NAME_TAG]){
 				itemName = item.meta[DISP_NAME_TAG];
